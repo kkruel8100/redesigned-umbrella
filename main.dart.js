@@ -21849,7 +21849,7 @@ s.BO()},
 auG(){var s,r,q,p=A.b([],t.xr),o=t.S,n=J.Vy(100,o)
 for(s=0;s<100;s=r){r=s+1
 n[s]=r}q=t.N
-return new A.xg(p,n,A.b(["Clover","Mesquite","Orange Blossom","Wildflower"],t.s),A.b([A.az(["HoneyBear-PET-12",10],q,o),A.az(["HoneyComb-PET-16",12],q,o),A.az(["Jar-Glass-10",10],q,o),A.az(["Jar-Glass-22",15],q,o),A.az(["MasonJar-Glass-42",30],q,o)],t.xN),B.m)},
+return new A.xg(p,n,A.b(["Clover","Mesquite","Orange Blossom","Wildflower","Farm"],t.s),A.b([A.az(["HoneyBear-PET-12",10],q,o),A.az(["HoneyComb-PET-16",12],q,o),A.az(["Jar-Glass-10",10],q,o),A.az(["Jar-Glass-22",15],q,o),A.az(["MasonJar-Glass-42",30],q,o),A.az(["Eggs",6],q,o)],t.xN),B.m)},
 DM:function DM(a){this.a=a},
 uq:function uq(a){this.a=a},
 KN:function KN(a){this.a=null
