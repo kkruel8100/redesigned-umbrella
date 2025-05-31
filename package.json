@@ -1,0 +1,28 @@
+{
+  "name": "redesigned-umbrella",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "deploy": "gh-pages -d build/web",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkruel8100/redesigned-umbrella.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkruel8100/redesigned-umbrella/issues"
+  },
+  "homepage": "https://github.com/kkruel8100/redesigned-umbrella#readme",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
